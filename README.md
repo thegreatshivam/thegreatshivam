@@ -1,11 +1,11 @@
 # Hi, I'm Shivam Kumar 👋
 
-### Full Stack Software Engineer | AI & Backend Optimization Specialist
-I’m a software engineer focused on building scalable backend architectures and AI-driven SaaS solutions. Currently, I'm at **AIQOD**, where I work on GenAI systems and high-scale data processing microservices.
+### AI Research Engineer | Full Stack Systems Specialist
+I am a Software Engineer currently serving as a **Project Junior Research Fellow at IIT (ISM) Dhanbad** for an **ISRO-funded R&D project**. I specialize in developing high-integrity AI solutions and optimized data architectures for complex research environments.
 
-- 🚀 **Expertise:** MEAN Stack, Python, and Microservices.
-- 🤖 **AI Focus:** GenAI, OCR (Google Vision/Tesseract), and Automation.
-- ⚙️ **Performance:** Optimized data pipelines increasing throughput by 4x.
+- 🛠️ **Systems Research:** Developing robust, end-to-end software solutions for high-performance research applications.
+- 🤖 **AI Orchestration:** Expertise in RAG and Agentic workflows using **LangGraph** and **LlamaIndex**.
+- ⚙️ **Core Engineering:** Specialized in building high-throughput pipelines and cross-platform technical utilities.
 - 🎓 **Academic:** GATE 2024 Qualified (CS & IT).
 
 ---
@@ -14,34 +14,38 @@ I’m a software engineer focused on building scalable backend architectures and
 
 | Category | Skills |
 | --- | --- |
-| **Languages** | Python, TypeScript, JavaScript (ES6+), Java |
-| **Backend** | Node.js, Express, RESTful APIs, Microservices |
-| **Frontend** | Angular, RxJS, React, Bootstrap |
-| **Databases** | MongoDB, PostgreSQL, MySQL, Redis |
-| **DevOps & Cloud** | AWS (S3, EC2), Docker, GitHub Actions, Linux |
+| **AI & LLM** | LangGraph, LlamaIndex, RAG, Ollama, Vector Intelligence |
+| **Development** | Python, Node.js, NestJS, Express, Java |
+| **Data Architecture** | Specialized Database Management, Time-Series & Relational Data |
+| **Frontend** | React, Angular, Bootstrap |
+| **Environment** | Linux (Ubuntu/Kubuntu), Docker, Performance Tuning |
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Professional Highlights
+
+#### AI Research (ISRO-Funded Project)
+*Project Junior Research Fellow @ IIT (ISM) Dhanbad*
+- Leading the development of a comprehensive intelligence system for processing and analyzing mission-critical research data.
+- Architecting automated data ingestion workflows that synchronize multi-modal datasets for real-time analysis.
+- Implementing advanced retrieval mechanisms to enable intelligent knowledge discovery across large-scale private datasets.
 
 #### Smart Recruit AI
-*A GenAI-based recruitment SaaS.*
-- Developed dynamic AI interview modules and multi-stream media pipelines.
-- Implemented fraud detection and automated resume matching (95% accuracy).
+*GenAI SaaS Engineering*
+- Developed dynamic AI interview modules and multi-stream media pipelines with automated fraud detection.
 
 #### High-Scale Data Microservice
-*Python-based bulk uploader.*
-- Offloaded heavy parsing from Node.js to Python, increasing throughput by 400%.
-- Handles 10k+ records in under 10 seconds with real-time tracking.
+*Performance Optimization*
+- Engineered a high-throughput microservice that offloaded heavy processing from Node.js to Python, increasing performance by **400%**.
+- Designed for high-reliability data handling with integrated real-time tracking systems.
+
+#### Tally-MEAN Data Sync Utility
+*Technical Integration*
+- Built a specialized utility to bridge data gaps between local business software and modern web-based architectures.
 
 ---
 
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/thegreatshivam](https://linkedin.com/in/thegreatshivam)
 - **Email:** shivamsetty5@gmail.com
-- **Portfolio:** https://thegreatshivam.netlify.app
-
-<!---
-thegreatshivam/thegreatshivam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Portfolio:** [thegreatshivam.netlify.app](https://thegreatshivam.netlify.app)
